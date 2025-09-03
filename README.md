@@ -11,5 +11,5 @@ Analyzed music store sales using SQL in PostgreSQL (pgAdmin 4), performing joins
 <img width="991" height="876" alt="Music_store_Analysis_questions" src="https://github.com/user-attachments/assets/54e86cae-5b33-4621-9238-0008d58785ae" />
 
 ## Music_Store_Analysis_Query_Answers
-https://github.com/Tusharnjaiswal/SQL_Music_store_analysis/blob/main/Music_Store_Query.sql>Superstore dataset</a>
+-<a href= "https://github.com/Tusharnjaiswal/SQL_Music_store_analysis/blob/main/Music_Store_Query.sql"> click here </a>
 
