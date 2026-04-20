@@ -13,3 +13,4 @@ Analyzed music store sales using SQL in PostgreSQL (pgAdmin 4), performing joins
 ## Music_Store_Analysis_Query_Answers
 -<a href= "https://github.com/Tusharnjaiswal/SQL_Music_store_analysis/blob/main/Music_Store_Query.sql"> click here </a> 
 
+ 
